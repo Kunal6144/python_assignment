@@ -1,6 +1,4 @@
 # python_assignment
-Certainly! Here's a markdown guide for installing and setting up Python on a Windows system.
-
 ---
 
 # Installing and Setting Up Python on Windows
